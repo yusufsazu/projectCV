@@ -8,10 +8,11 @@ Tech:
 6. Div
 7. Texts(h1-h6)
 --
-Ul, Li
-Table
+-Ul, Li
+-Table
 
-TODO: 1. we will creat a nav bar
+TODO: 
+1. we will creat a nav bar
 2. we will creat a table
 3. some design
 
